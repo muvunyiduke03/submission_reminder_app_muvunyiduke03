@@ -1,0 +1,10 @@
+student, assignment, submission status
+Chinemerem, Shell Navigation, not submitted
+Chiagoziem, Git, submitted
+Divine, Shell Navigation, not submitted
+Anissa, Shell Basics, submitted
+Kelvin, Git, not submitted
+Alvin, Shell basics, submitted
+Levy, Git, not submitted
+Dina, Shell Navigation, submitted
+Herve, Git, not submitted
